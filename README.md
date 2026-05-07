@@ -9,4 +9,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/vineet1cg/leetcode-solving/tree/main/0001-two-sum/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/vineet1cg/leetcode-solving/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
