@@ -20,10 +20,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/vineet1cg/leetcode-solving/tree/main/0020-valid-parentheses/) | Easy |
+| [0394-decode-string](https://github.com/vineet1cg/leetcode-solving/tree/main/0394-decode-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/vineet1cg/leetcode-solving/tree/main/0020-valid-parentheses/) | Easy |
+| [0394-decode-string](https://github.com/vineet1cg/leetcode-solving/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/vineet1cg/leetcode-solving/tree/main/0496-next-greater-element-i/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -33,6 +35,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/vineet1cg/leetcode-solving/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0394-decode-string](https://github.com/vineet1cg/leetcode-solving/tree/main/0394-decode-string/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
