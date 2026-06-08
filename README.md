@@ -7,12 +7,14 @@
 | [0001-two-sum](https://github.com/vineet1cg/leetcode-solving/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vineet1cg/leetcode-solving/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vineet1cg/leetcode-solving/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/vineet1cg/leetcode-solving/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0228-summary-ranges](https://github.com/vineet1cg/leetcode-solving/tree/main/0228-summary-ranges/) | Easy |
 | [0496-next-greater-element-i](https://github.com/vineet1cg/leetcode-solving/tree/main/0496-next-greater-element-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/vineet1cg/leetcode-solving/tree/main/0001-two-sum/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/vineet1cg/leetcode-solving/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0496-next-greater-element-i](https://github.com/vineet1cg/leetcode-solving/tree/main/0496-next-greater-element-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -56,4 +58,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vineet1cg/leetcode-solving/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/vineet1cg/leetcode-solving/tree/main/0219-contains-duplicate-ii/) | Easy |
 <!---LeetCode Topics End-->
