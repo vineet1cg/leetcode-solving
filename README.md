@@ -10,12 +10,14 @@
 | [0219-contains-duplicate-ii](https://github.com/vineet1cg/leetcode-solving/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0228-summary-ranges](https://github.com/vineet1cg/leetcode-solving/tree/main/0228-summary-ranges/) | Easy |
 | [0496-next-greater-element-i](https://github.com/vineet1cg/leetcode-solving/tree/main/0496-next-greater-element-i/) | Easy |
+| [3668-restore-finishing-order](https://github.com/vineet1cg/leetcode-solving/tree/main/3668-restore-finishing-order/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/vineet1cg/leetcode-solving/tree/main/0001-two-sum/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/vineet1cg/leetcode-solving/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0496-next-greater-element-i](https://github.com/vineet1cg/leetcode-solving/tree/main/0496-next-greater-element-i/) | Easy |
+| [3668-restore-finishing-order](https://github.com/vineet1cg/leetcode-solving/tree/main/3668-restore-finishing-order/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
