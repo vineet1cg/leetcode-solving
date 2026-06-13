@@ -40,6 +40,7 @@
 | [1002-find-common-characters](https://github.com/vineet1cg/leetcode-solving/tree/main/1002-find-common-characters/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/vineet1cg/leetcode-solving/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vineet1cg/leetcode-solving/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/vineet1cg/leetcode-solving/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2942-find-words-containing-character](https://github.com/vineet1cg/leetcode-solving/tree/main/2942-find-words-containing-character/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/vineet1cg/leetcode-solving/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## Stack
@@ -51,6 +52,7 @@
 | [0496-next-greater-element-i](https://github.com/vineet1cg/leetcode-solving/tree/main/0496-next-greater-element-i/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/vineet1cg/leetcode-solving/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vineet1cg/leetcode-solving/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/vineet1cg/leetcode-solving/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,6 +67,7 @@
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vineet1cg/leetcode-solving/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vineet1cg/leetcode-solving/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/vineet1cg/leetcode-solving/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
