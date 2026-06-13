@@ -21,11 +21,13 @@
 | [0496-next-greater-element-i](https://github.com/vineet1cg/leetcode-solving/tree/main/0496-next-greater-element-i/) | Easy |
 | [1002-find-common-characters](https://github.com/vineet1cg/leetcode-solving/tree/main/1002-find-common-characters/) | Easy |
 | [3668-restore-finishing-order](https://github.com/vineet1cg/leetcode-solving/tree/main/3668-restore-finishing-order/) | Easy |
+| [3945-digit-frequency-score](https://github.com/vineet1cg/leetcode-solving/tree/main/3945-digit-frequency-score/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/vineet1cg/leetcode-solving/tree/main/0009-palindrome-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vineet1cg/leetcode-solving/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [3945-digit-frequency-score](https://github.com/vineet1cg/leetcode-solving/tree/main/3945-digit-frequency-score/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
