@@ -11,6 +11,7 @@
 | [0228-summary-ranges](https://github.com/vineet1cg/leetcode-solving/tree/main/0228-summary-ranges/) | Easy |
 | [0496-next-greater-element-i](https://github.com/vineet1cg/leetcode-solving/tree/main/0496-next-greater-element-i/) | Easy |
 | [1002-find-common-characters](https://github.com/vineet1cg/leetcode-solving/tree/main/1002-find-common-characters/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vineet1cg/leetcode-solving/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2942-find-words-containing-character](https://github.com/vineet1cg/leetcode-solving/tree/main/2942-find-words-containing-character/) | Easy |
 | [3668-restore-finishing-order](https://github.com/vineet1cg/leetcode-solving/tree/main/3668-restore-finishing-order/) | Easy |
 ## Hash Table
@@ -20,6 +21,7 @@
 | [0219-contains-duplicate-ii](https://github.com/vineet1cg/leetcode-solving/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0496-next-greater-element-i](https://github.com/vineet1cg/leetcode-solving/tree/main/0496-next-greater-element-i/) | Easy |
 | [1002-find-common-characters](https://github.com/vineet1cg/leetcode-solving/tree/main/1002-find-common-characters/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vineet1cg/leetcode-solving/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/vineet1cg/leetcode-solving/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3668-restore-finishing-order](https://github.com/vineet1cg/leetcode-solving/tree/main/3668-restore-finishing-order/) | Easy |
 | [3945-digit-frequency-score](https://github.com/vineet1cg/leetcode-solving/tree/main/3945-digit-frequency-score/) | Easy |
@@ -79,4 +81,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/vineet1cg/leetcode-solving/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vineet1cg/leetcode-solving/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vineet1cg/leetcode-solving/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 <!---LeetCode Topics End-->
