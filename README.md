@@ -11,6 +11,7 @@
 | [0228-summary-ranges](https://github.com/vineet1cg/leetcode-solving/tree/main/0228-summary-ranges/) | Easy |
 | [0496-next-greater-element-i](https://github.com/vineet1cg/leetcode-solving/tree/main/0496-next-greater-element-i/) | Easy |
 | [1002-find-common-characters](https://github.com/vineet1cg/leetcode-solving/tree/main/1002-find-common-characters/) | Easy |
+| [2942-find-words-containing-character](https://github.com/vineet1cg/leetcode-solving/tree/main/2942-find-words-containing-character/) | Easy |
 | [3668-restore-finishing-order](https://github.com/vineet1cg/leetcode-solving/tree/main/3668-restore-finishing-order/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -34,6 +35,7 @@
 | [1002-find-common-characters](https://github.com/vineet1cg/leetcode-solving/tree/main/1002-find-common-characters/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/vineet1cg/leetcode-solving/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vineet1cg/leetcode-solving/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [2942-find-words-containing-character](https://github.com/vineet1cg/leetcode-solving/tree/main/2942-find-words-containing-character/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
