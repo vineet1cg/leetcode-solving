@@ -20,6 +20,7 @@
 | [0219-contains-duplicate-ii](https://github.com/vineet1cg/leetcode-solving/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0496-next-greater-element-i](https://github.com/vineet1cg/leetcode-solving/tree/main/0496-next-greater-element-i/) | Easy |
 | [1002-find-common-characters](https://github.com/vineet1cg/leetcode-solving/tree/main/1002-find-common-characters/) | Easy |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/vineet1cg/leetcode-solving/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3668-restore-finishing-order](https://github.com/vineet1cg/leetcode-solving/tree/main/3668-restore-finishing-order/) | Easy |
 | [3945-digit-frequency-score](https://github.com/vineet1cg/leetcode-solving/tree/main/3945-digit-frequency-score/) | Easy |
 ## Math
@@ -38,6 +39,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/vineet1cg/leetcode-solving/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vineet1cg/leetcode-solving/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [2942-find-words-containing-character](https://github.com/vineet1cg/leetcode-solving/tree/main/2942-find-words-containing-character/) | Easy |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/vineet1cg/leetcode-solving/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,4 +75,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/vineet1cg/leetcode-solving/tree/main/0219-contains-duplicate-ii/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/vineet1cg/leetcode-solving/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 <!---LeetCode Topics End-->
