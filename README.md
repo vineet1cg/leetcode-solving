@@ -40,6 +40,7 @@
 | [0020-valid-parentheses](https://github.com/vineet1cg/leetcode-solving/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vineet1cg/leetcode-solving/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0394-decode-string](https://github.com/vineet1cg/leetcode-solving/tree/main/0394-decode-string/) | Medium |
+| [0434-number-of-segments-in-a-string](https://github.com/vineet1cg/leetcode-solving/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [1002-find-common-characters](https://github.com/vineet1cg/leetcode-solving/tree/main/1002-find-common-characters/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/vineet1cg/leetcode-solving/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vineet1cg/leetcode-solving/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
