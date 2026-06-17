@@ -10,6 +10,7 @@
 | [0219-contains-duplicate-ii](https://github.com/vineet1cg/leetcode-solving/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0228-summary-ranges](https://github.com/vineet1cg/leetcode-solving/tree/main/0228-summary-ranges/) | Easy |
 | [0496-next-greater-element-i](https://github.com/vineet1cg/leetcode-solving/tree/main/0496-next-greater-element-i/) | Easy |
+| [0704-binary-search](https://github.com/vineet1cg/leetcode-solving/tree/main/0704-binary-search/) | Easy |
 | [1002-find-common-characters](https://github.com/vineet1cg/leetcode-solving/tree/main/1002-find-common-characters/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vineet1cg/leetcode-solving/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1816-truncate-sentence](https://github.com/vineet1cg/leetcode-solving/tree/main/1816-truncate-sentence/) | Easy |
@@ -104,4 +105,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3612-process-string-with-special-operations-i](https://github.com/vineet1cg/leetcode-solving/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/vineet1cg/leetcode-solving/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
