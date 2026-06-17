@@ -50,6 +50,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/vineet1cg/leetcode-solving/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2942-find-words-containing-character](https://github.com/vineet1cg/leetcode-solving/tree/main/2942-find-words-containing-character/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/vineet1cg/leetcode-solving/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/vineet1cg/leetcode-solving/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,4 +100,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vineet1cg/leetcode-solving/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/vineet1cg/leetcode-solving/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 <!---LeetCode Topics End-->
