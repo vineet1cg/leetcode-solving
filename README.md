@@ -66,6 +66,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/vineet1cg/leetcode-solving/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0237-delete-node-in-a-linked-list](https://github.com/vineet1cg/leetcode-solving/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
