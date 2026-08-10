@@ -9,6 +9,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/vineet1cg/leetcode-solving/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/vineet1cg/leetcode-solving/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0228-summary-ranges](https://github.com/vineet1cg/leetcode-solving/tree/main/0228-summary-ranges/) | Easy |
+| [0318-maximum-product-of-word-lengths](https://github.com/vineet1cg/leetcode-solving/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0496-next-greater-element-i](https://github.com/vineet1cg/leetcode-solving/tree/main/0496-next-greater-element-i/) | Easy |
 | [0704-binary-search](https://github.com/vineet1cg/leetcode-solving/tree/main/0704-binary-search/) | Easy |
 | [1002-find-common-characters](https://github.com/vineet1cg/leetcode-solving/tree/main/1002-find-common-characters/) | Easy |
@@ -42,6 +43,7 @@
 | [0020-valid-parentheses](https://github.com/vineet1cg/leetcode-solving/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vineet1cg/leetcode-solving/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0038-count-and-say](https://github.com/vineet1cg/leetcode-solving/tree/main/0038-count-and-say/) | Medium |
+| [0318-maximum-product-of-word-lengths](https://github.com/vineet1cg/leetcode-solving/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0394-decode-string](https://github.com/vineet1cg/leetcode-solving/tree/main/0394-decode-string/) | Medium |
 | [0434-number-of-segments-in-a-string](https://github.com/vineet1cg/leetcode-solving/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [1002-find-common-characters](https://github.com/vineet1cg/leetcode-solving/tree/main/1002-find-common-characters/) | Easy |
@@ -114,4 +116,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0704-binary-search](https://github.com/vineet1cg/leetcode-solving/tree/main/0704-binary-search/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0318-maximum-product-of-word-lengths](https://github.com/vineet1cg/leetcode-solving/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 <!---LeetCode Topics End-->
