@@ -61,6 +61,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/vineet1cg/leetcode-solving/tree/main/0020-valid-parentheses/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vineet1cg/leetcode-solving/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/vineet1cg/leetcode-solving/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/vineet1cg/leetcode-solving/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/vineet1cg/leetcode-solving/tree/main/0496-next-greater-element-i/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/vineet1cg/leetcode-solving/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -73,11 +74,13 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/vineet1cg/leetcode-solving/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/vineet1cg/leetcode-solving/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/vineet1cg/leetcode-solving/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/vineet1cg/leetcode-solving/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/vineet1cg/leetcode-solving/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/vineet1cg/leetcode-solving/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/vineet1cg/leetcode-solving/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/vineet1cg/leetcode-solving/tree/main/0394-decode-string/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -86,6 +89,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vineet1cg/leetcode-solving/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/vineet1cg/leetcode-solving/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/vineet1cg/leetcode-solving/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/vineet1cg/leetcode-solving/tree/main/0234-palindrome-linked-list/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/vineet1cg/leetcode-solving/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
