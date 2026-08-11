@@ -78,6 +78,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/vineet1cg/leetcode-solving/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/vineet1cg/leetcode-solving/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/vineet1cg/leetcode-solving/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [2181-merge-nodes-in-between-zeros](https://github.com/vineet1cg/leetcode-solving/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/vineet1cg/leetcode-solving/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -121,6 +122,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2181-merge-nodes-in-between-zeros](https://github.com/vineet1cg/leetcode-solving/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/vineet1cg/leetcode-solving/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
