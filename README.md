@@ -17,6 +17,7 @@
 | [1816-truncate-sentence](https://github.com/vineet1cg/leetcode-solving/tree/main/1816-truncate-sentence/) | Easy |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/vineet1cg/leetcode-solving/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2942-find-words-containing-character](https://github.com/vineet1cg/leetcode-solving/tree/main/2942-find-words-containing-character/) | Easy |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/vineet1cg/leetcode-solving/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3668-restore-finishing-order](https://github.com/vineet1cg/leetcode-solving/tree/main/3668-restore-finishing-order/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -29,6 +30,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vineet1cg/leetcode-solving/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/vineet1cg/leetcode-solving/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/vineet1cg/leetcode-solving/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/vineet1cg/leetcode-solving/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/vineet1cg/leetcode-solving/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3668-restore-finishing-order](https://github.com/vineet1cg/leetcode-solving/tree/main/3668-restore-finishing-order/) | Easy |
 | [3945-digit-frequency-score](https://github.com/vineet1cg/leetcode-solving/tree/main/3945-digit-frequency-score/) | Easy |
@@ -76,6 +78,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/vineet1cg/leetcode-solving/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/vineet1cg/leetcode-solving/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/vineet1cg/leetcode-solving/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/vineet1cg/leetcode-solving/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
