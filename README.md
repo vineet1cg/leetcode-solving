@@ -14,6 +14,7 @@
 | [0704-binary-search](https://github.com/vineet1cg/leetcode-solving/tree/main/0704-binary-search/) | Easy |
 | [1002-find-common-characters](https://github.com/vineet1cg/leetcode-solving/tree/main/1002-find-common-characters/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vineet1cg/leetcode-solving/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/vineet1cg/leetcode-solving/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1816-truncate-sentence](https://github.com/vineet1cg/leetcode-solving/tree/main/1816-truncate-sentence/) | Easy |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/vineet1cg/leetcode-solving/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2942-find-words-containing-character](https://github.com/vineet1cg/leetcode-solving/tree/main/2942-find-words-containing-character/) | Easy |
@@ -115,6 +116,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vineet1cg/leetcode-solving/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/vineet1cg/leetcode-solving/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
