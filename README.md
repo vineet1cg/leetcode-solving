@@ -13,6 +13,7 @@
 | [0496-next-greater-element-i](https://github.com/vineet1cg/leetcode-solving/tree/main/0496-next-greater-element-i/) | Easy |
 | [0704-binary-search](https://github.com/vineet1cg/leetcode-solving/tree/main/0704-binary-search/) | Easy |
 | [1002-find-common-characters](https://github.com/vineet1cg/leetcode-solving/tree/main/1002-find-common-characters/) | Easy |
+| [1019-next-greater-node-in-linked-list](https://github.com/vineet1cg/leetcode-solving/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vineet1cg/leetcode-solving/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/vineet1cg/leetcode-solving/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1816-truncate-sentence](https://github.com/vineet1cg/leetcode-solving/tree/main/1816-truncate-sentence/) | Easy |
@@ -67,6 +68,7 @@
 | [0234-palindrome-linked-list](https://github.com/vineet1cg/leetcode-solving/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/vineet1cg/leetcode-solving/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/vineet1cg/leetcode-solving/tree/main/0496-next-greater-element-i/) | Easy |
+| [1019-next-greater-node-in-linked-list](https://github.com/vineet1cg/leetcode-solving/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/vineet1cg/leetcode-solving/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vineet1cg/leetcode-solving/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/vineet1cg/leetcode-solving/tree/main/2000-reverse-prefix-of-word/) | Easy |
@@ -80,6 +82,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/vineet1cg/leetcode-solving/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/vineet1cg/leetcode-solving/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/vineet1cg/leetcode-solving/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/vineet1cg/leetcode-solving/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/vineet1cg/leetcode-solving/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/vineet1cg/leetcode-solving/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/vineet1cg/leetcode-solving/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
@@ -103,6 +106,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/vineet1cg/leetcode-solving/tree/main/0496-next-greater-element-i/) | Easy |
+| [1019-next-greater-node-in-linked-list](https://github.com/vineet1cg/leetcode-solving/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/vineet1cg/leetcode-solving/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
