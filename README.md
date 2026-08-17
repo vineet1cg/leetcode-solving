@@ -82,6 +82,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/vineet1cg/leetcode-solving/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/vineet1cg/leetcode-solving/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/vineet1cg/leetcode-solving/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/vineet1cg/leetcode-solving/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/vineet1cg/leetcode-solving/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/vineet1cg/leetcode-solving/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/vineet1cg/leetcode-solving/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
@@ -142,4 +143,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0318-maximum-product-of-word-lengths](https://github.com/vineet1cg/leetcode-solving/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/vineet1cg/leetcode-solving/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/vineet1cg/leetcode-solving/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 <!---LeetCode Topics End-->
