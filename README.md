@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/vineet1cg/leetcode-solving/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vineet1cg/leetcode-solving/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0056-merge-intervals](https://github.com/vineet1cg/leetcode-solving/tree/main/0056-merge-intervals/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vineet1cg/leetcode-solving/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/vineet1cg/leetcode-solving/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0228-summary-ranges](https://github.com/vineet1cg/leetcode-solving/tree/main/0228-summary-ranges/) | Easy |
@@ -126,6 +127,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/vineet1cg/leetcode-solving/tree/main/0056-merge-intervals/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vineet1cg/leetcode-solving/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/vineet1cg/leetcode-solving/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 ## Counting Sort
@@ -153,4 +155,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/vineet1cg/leetcode-solving/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/vineet1cg/leetcode-solving/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
