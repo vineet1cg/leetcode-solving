@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/vineet1cg/leetcode-solving/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vineet1cg/leetcode-solving/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0036-valid-sudoku](https://github.com/vineet1cg/leetcode-solving/tree/main/0036-valid-sudoku/) | Medium |
+| [0048-rotate-image](https://github.com/vineet1cg/leetcode-solving/tree/main/0048-rotate-image/) | Medium |
 | [0056-merge-intervals](https://github.com/vineet1cg/leetcode-solving/tree/main/0056-merge-intervals/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vineet1cg/leetcode-solving/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/vineet1cg/leetcode-solving/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -44,6 +45,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/vineet1cg/leetcode-solving/tree/main/0009-palindrome-number/) | Easy |
+| [0048-rotate-image](https://github.com/vineet1cg/leetcode-solving/tree/main/0048-rotate-image/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vineet1cg/leetcode-solving/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [3945-digit-frequency-score](https://github.com/vineet1cg/leetcode-solving/tree/main/3945-digit-frequency-score/) | Easy |
 ## String
@@ -168,6 +170,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/vineet1cg/leetcode-solving/tree/main/0036-valid-sudoku/) | Medium |
+| [0048-rotate-image](https://github.com/vineet1cg/leetcode-solving/tree/main/0048-rotate-image/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
